@@ -105,7 +105,7 @@ No external servers. Fully private.
 
 A short demo video is available on LinkedIn:
 
-> (Paste your LinkedIn post link here after uploading)
+
 
 ---
 
